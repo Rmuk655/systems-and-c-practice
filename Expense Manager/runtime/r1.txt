@@ -1,0 +1,28 @@
+
+Expense Manager
+1. Add Expense
+2. View Expenses
+3. Reset Expense List
+4. Exit
+Select an option: Enter Expense Name: Enter Date: Enter Amount Expense added successfully!
+
+Expense Manager
+1. Add Expense
+2. View Expenses
+3. Reset Expense List
+4. Exit
+Select an option: Expense List: 1. Name: grocery, Date: 2024-10-30, Amount: 500.00Total Expenses: 500.00
+
+Expense Manager
+1. Add Expense
+2. View Expenses
+3. Reset Expense List
+4. Exit
+Select an option: Enter Expense Name: Enter Date: Enter Amount Expense added successfully!
+
+Expense Manager
+1. Add Expense
+2. View Expenses
+3. Reset Expense List
+4. Exit
+Select an option: 

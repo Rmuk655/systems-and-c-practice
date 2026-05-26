@@ -1,0 +1,7 @@
+3
+sun
+water
+earth
+2
+hearty 0
+sweut 7
