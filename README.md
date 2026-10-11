@@ -25,7 +25,7 @@ Concepts:
 
 ---
 
-### Undo Redo Editor
+### Chronicle Editor (undo/redo editor)
 A lightweight text modification engine supporting:
 - insert
 - delete
