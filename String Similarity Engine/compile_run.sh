@@ -33,7 +33,8 @@ if [ $? -ne 0 ]; then
 fi
 echo "Compilation successful!"
 
-./"$input_file.out" < "$num_testcases"
+mkdir -p solution
+echo "$num_testcases" | ./"$input_file.out"
 
 # Iterate over all test case IDs
 for ((id=0; id<num_testcases; id++)); do

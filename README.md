@@ -51,3 +51,17 @@ Concepts:
 - combinatorics
 - qsort comparators
 - dynamic memory allocation
+
+---
+
+## Running the tests
+
+Each project has a `compile_run.sh` that compiles the program and checks it against the sample cases in `input/` and `output/`:
+
+```bash
+cd "Chronicle Editor"          && bash compile_run.sh Chronicle_Editor.c 1
+cd "String Similarity Engine"  && bash compile_run.sh String_Similarity_Engine.c 2
+cd "Expense Manager"           && bash compile_run.sh Expense_Manager.c
+```
+
+The second argument is the number of test cases.
